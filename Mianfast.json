@@ -1,0 +1,21 @@
+{
+    "name": "Yash Code Studio",
+    "short_name": "YashCoder",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#1e1e1e",
+    "theme_color": "#1e1e1e",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "html_coder.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "html_coder.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
